@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Isaac929
 - 👀 I’m interested in Python, javascript, json.
 - 🌱 I’m currently learning javascript, json.
-- 💞️ Im might colaborate with the commmunity on open projects everyone can edit.
+- 💞️ I might colaborate with the commmunity on open source projects so everyone can edit.
